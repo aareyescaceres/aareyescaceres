@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Data Science in Platzi
 - 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me ... a.a.reyes.caceres@gmail.com
+- 📫 How to reach me ... aa22reyescaceres@gmail.com
 
 <!---
 aareyescaceres/aareyescaceres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
